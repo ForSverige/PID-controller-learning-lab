@@ -1,0 +1,5 @@
+{
+  "name": "PID Controller Learning Lab",
+  "description": "An interactive web application to learn and tune PID controllers. Build your controller from the ground up, understand the effect of each term (P, I, D), and compete against a baseline controller in various tuning challenges.",
+  "requestFramePermissions": []
+}
